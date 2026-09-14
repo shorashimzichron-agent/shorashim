@@ -1,0 +1,6 @@
+{
+  "name": "שורשים | בית בוטיק לאירוח בזכרון יעקב",
+  "description": "בית בוטיק אינטימי למבוגרים בלב זכרון יעקב. אירוח זוגי, חוויית כלה, ורוגע בחצר משפחתית היסטורית.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
